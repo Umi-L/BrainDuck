@@ -1,0 +1,5 @@
+print hello world!
+
+loop 5
+print some stuff
+/loop
